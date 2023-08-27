@@ -4,13 +4,13 @@ Article ...
 
 #### Installation
 
-Install Python dependencies:
+###### Install Python dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Install NodeJS dependencies:
+###### Install JavaScript dependencies:
 
 First:
 ```bash
@@ -24,13 +24,13 @@ npm install
 
 #### Run
 
-Run the server:
+###### Run the server:
 
 ```bash
 uvicorn main:app --reload --port 8000
-``
+```
 
-Run the client:
+###### Run the client:
 
 First:
 ```bash
