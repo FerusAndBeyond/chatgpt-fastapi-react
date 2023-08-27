@@ -7,8 +7,7 @@ import openai
 from fastapi.responses import StreamingResponse
 
 class Envs(BaseSettings):
-    # either have an environment variable called OPENAI_API_KEY or
-    # have a .env file with a variable called OPENAI_API_KEY
+    # expects an environment variable called OPENAI_API_KEY
     openai_api_key: str
 
 envs = Envs()
