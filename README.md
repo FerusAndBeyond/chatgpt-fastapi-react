@@ -1,6 +1,6 @@
 ## FastAPI server with ChatGPT + ReactJS Frontend
 
-Article ...
+Article about the project can be found [here](https://medium.com/@dreamferus/how-to-setup-chatgpt-in-fastapi-and-display-the-conversation-in-reactjs-5d1ce7c7a288?sk=3f4a2e84fc09deffa08a74df0d1fc407).
 
 #### Installation
 
